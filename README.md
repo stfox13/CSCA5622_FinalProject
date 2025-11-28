@@ -1,4 +1,4 @@
-# CSCA5622 Machine Learning: Supervised Learning - FinalProject
+# CSCA5622 Machine Learning: Supervised Learning - Final Project
 
 **About:**
 - Supervised Learning Project ([CSCA5622](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5622)): PhiUSIIL Phishing URL Dataset
